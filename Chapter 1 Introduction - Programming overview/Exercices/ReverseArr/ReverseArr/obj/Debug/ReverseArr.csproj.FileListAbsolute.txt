@@ -1,0 +1,6 @@
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ReverseArr\ReverseArr\bin\Debug\ReverseArr.exe.config
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ReverseArr\ReverseArr\bin\Debug\ReverseArr.exe
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ReverseArr\ReverseArr\bin\Debug\ReverseArr.pdb
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ReverseArr\ReverseArr\obj\Debug\ReverseArr.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ReverseArr\ReverseArr\obj\Debug\ReverseArr.exe
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ReverseArr\ReverseArr\obj\Debug\ReverseArr.pdb

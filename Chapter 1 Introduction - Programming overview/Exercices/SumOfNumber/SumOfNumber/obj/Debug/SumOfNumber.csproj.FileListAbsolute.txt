@@ -1,0 +1,6 @@
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\SumOfNumber\SumOfNumber\bin\Debug\SumOfNumber.exe.config
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\SumOfNumber\SumOfNumber\bin\Debug\SumOfNumber.exe
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\SumOfNumber\SumOfNumber\bin\Debug\SumOfNumber.pdb
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\SumOfNumber\SumOfNumber\obj\Debug\SumOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\SumOfNumber\SumOfNumber\obj\Debug\SumOfNumber.exe
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\SumOfNumber\SumOfNumber\obj\Debug\SumOfNumber.pdb

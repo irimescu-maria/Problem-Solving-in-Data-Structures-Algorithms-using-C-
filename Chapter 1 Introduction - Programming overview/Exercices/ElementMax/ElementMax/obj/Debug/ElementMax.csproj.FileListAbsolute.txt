@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ElementMax\ElementMax\bin\Debug\ElementMax.exe.config
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ElementMax\ElementMax\bin\Debug\ElementMax.exe
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ElementMax\ElementMax\bin\Debug\ElementMax.pdb
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ElementMax\ElementMax\obj\Debug\ElementMax.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ElementMax\ElementMax\obj\Debug\ElementMax.exe
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ElementMax\ElementMax\obj\Debug\ElementMax.pdb
+C:\Users\Maria\Desktop\GitHub\Problem Solving in Dat Structures & Algorithms using c#\Chapter 1 Introduction - Programming overview\Exercices\ElementMax\ElementMax\obj\Debug\ElementMax.csprojAssemblyReference.cache
